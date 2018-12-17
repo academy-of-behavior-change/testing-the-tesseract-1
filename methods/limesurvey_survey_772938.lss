@@ -2798,7 +2798,7 @@
     <gid><![CDATA[5882]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} helemaal geen alcohol drinken]]></group_name>
-    <group_order><![CDATA[4]]></group_order>
+    <group_order><![CDATA[5]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2809,12 +2809,7 @@
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[Geen toestemming gegeven voor deelname]]></group_name>
     <group_order><![CDATA[1]]></group_order>
-    <description><![CDATA[<script type="text/javascript">
-    $( document ).ready(function() {
-        $("#group-1").css("display", "none");
-        $("#movenextbtn").css("display", "none");
-    });
-</script>]]></description>
+    <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group/>
     <grelevance><![CDATA[informedConsent=="no"]]></grelevance>
@@ -2823,7 +2818,7 @@
     <gid><![CDATA[5884]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} helemaal geen bier drinken]]></group_name>
-    <group_order><![CDATA[5]]></group_order>
+    <group_order><![CDATA[6]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2833,7 +2828,7 @@
     <gid><![CDATA[5885]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} maximaal tien glazen alcohol drinken]]></group_name>
-    <group_order><![CDATA[6]]></group_order>
+    <group_order><![CDATA[7]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2843,7 +2838,7 @@
     <gid><![CDATA[5886]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} maximaal tien glazen bier drinken]]></group_name>
-    <group_order><![CDATA[7]]></group_order>
+    <group_order><![CDATA[8]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2853,7 +2848,7 @@
     <gid><![CDATA[5887]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} minimaal tien minuten hardlopen]]></group_name>
-    <group_order><![CDATA[8]]></group_order>
+    <group_order><![CDATA[9]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2863,7 +2858,7 @@
     <gid><![CDATA[5888]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} minimaal tien minuten sporten]]></group_name>
-    <group_order><![CDATA[9]]></group_order>
+    <group_order><![CDATA[10]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2873,7 +2868,7 @@
     <gid><![CDATA[5889]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} minimaal een uur hardlopen]]></group_name>
-    <group_order><![CDATA[10]]></group_order>
+    <group_order><![CDATA[11]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2883,7 +2878,7 @@
     <gid><![CDATA[5890]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[De komende {period} minimaal een uur sporten]]></group_name>
-    <group_order><![CDATA[11]]></group_order>
+    <group_order><![CDATA[12]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group><![CDATA[behavior]]></randomization_group>
@@ -2893,7 +2888,7 @@
     <gid><![CDATA[5891]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[Oefenvraag: de komende minuten een vragenlijst invullen]]></group_name>
-    <group_order><![CDATA[3]]></group_order>
+    <group_order><![CDATA[4]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group/>
@@ -2903,7 +2898,7 @@
     <gid><![CDATA[5892]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[Algemene informatie]]></group_name>
-    <group_order><![CDATA[12]]></group_order>
+    <group_order><![CDATA[13]]></group_order>
     <description><![CDATA[Wij zouden het heel fijn vinden als je deze laatste vijf vragen ook nog invult, maar als je sommige vragen liever overslaat, dan kan dat.<br />
 ]]></description>
     <language><![CDATA[nl-informal]]></language>
@@ -2914,11 +2909,25 @@
     <gid><![CDATA[6084]]></gid>
     <sid><![CDATA[772938]]></sid>
     <group_name><![CDATA[Gedrag in de afgelopen {period}]]></group_name>
-    <group_order><![CDATA[2]]></group_order>
+    <group_order><![CDATA[3]]></group_order>
     <description/>
     <language><![CDATA[nl-informal]]></language>
     <randomization_group/>
     <grelevance><![CDATA[informedConsent == "yes"]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[6091]]></gid>
+    <sid><![CDATA[772938]]></sid>
+    <group_name><![CDATA[Afsluiting]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[<script type="text/javascript">
+    $( document ).ready(function() {
+        $("#movenextbtn").css("display", "none");
+    });
+</script>]]></description>
+    <language><![CDATA[nl-informal]]></language>
+    <randomization_group/>
+    <grelevance><![CDATA[informedConsent=="no"]]></grelevance>
    </row>
   </rows>
  </groups>
@@ -2994,13 +3003,7 @@
     <gid><![CDATA[5883]]></gid>
     <type><![CDATA[T]]></type>
     <title><![CDATA[noConsentReason]]></title>
-    <question><![CDATA[Jammer dat u heeft besloten niet mee te doen met deze studie. Wij zijn heel benieuwd waarom: als u wilt kunt u de reden hiervoor hieronder aangeven.
-<script type="text/javascript">
-    $( document ).ready(function() {
-        $("#group-1").css("display", "none");
-        $("#movenextbtn").css("display", "none");
-    });
-</script>]]></question>
+    <question><![CDATA[Jammer dat u heeft besloten niet mee te doen met deze studie. Wij zijn heel benieuwd waarom: als u wilt kunt u de reden hiervoor hieronder aangeven.]]></question>
     <preg/>
     <help/>
     <other><![CDATA[N]]></other>
@@ -3484,6 +3487,24 @@
     <other><![CDATA[N]]></other>
     <mandatory><![CDATA[N]]></mandatory>
     <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[nl-informal]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[116544]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[772938]]></sid>
+    <gid><![CDATA[6091]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[closingNonConsent]]></title>
+    <question><![CDATA[Bedankt. U kunt uw browser nu sluiten.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[0]]></question_order>
     <language><![CDATA[nl-informal]]></language>
     <scale_id><![CDATA[0]]></scale_id>
     <same_default><![CDATA[0]]></same_default>
@@ -4874,7 +4895,7 @@
     <usecookie><![CDATA[N]]></usecookie>
     <allowregister><![CDATA[N]]></allowregister>
     <allowsave><![CDATA[Y]]></allowsave>
-    <autonumber_start><![CDATA[21]]></autonumber_start>
+    <autonumber_start><![CDATA[22]]></autonumber_start>
     <autoredirect><![CDATA[Y]]></autoredirect>
     <allowprev><![CDATA[Y]]></allowprev>
     <printanswers><![CDATA[N]]></printanswers>
@@ -4975,13 +4996,11 @@
     <surveyls_endtext><![CDATA[<p>
 	Heel erg bedankt voor het invullen van deze vragenlijst!</p>
 <p>
-	Zoals we in het begin uitlegden is het doel van deze studie om voor verschillende gedragingen in kaart te brengen waarom mensen deze uitvoeren. Binnen gezondheidspsychologisch onderzoek wordt vaak veronderstelt dat sommige gedragingen sociaal wenselijker zijn dan anderen, of als makkelijker worden gezien dan anderen. Dit is echter nooit grondig onderzocht. Deze studie is met dat doel opgezet.</p>
+	Zoals we in het begin uitlegden is het doel van deze studie om voor acht gerelateerde gedragingen in kaart te brengen waarom mensen deze uitvoeren. Binnen gezondheidspsychologisch onderzoek wordt vaak veronderstelt dat sommige gedragingen sociaal wenselijker zijn dan anderen, of als makkelijker worden gezien dan anderen. Dit is echter nooit grondig onderzocht, laat staan hoeveel kleine nuances in formulering uitmaken. Deze studie is opgezet om dat wel in kaart te brengen.</p>
 <p>
-	Een tweede doel is dat we een aanpak, CIBERlite, willen ontwikkelen om preventie-organisaties te ondersteunen bij het in kaart brengen van de zogenaamde determinanten van gedrag. Hierbij gebruiken we de 'Reasoned Action Approach', een van de meest gebruikte theorieën om beredeneerd gedrag te onderzoeken.</p>
+	Een tweede doel is dat we een aanpak, CIBERlite, willen ontwikkelen om preventie-organisaties te ondersteunen bij het in kaart brengen van de zogenaamde determinanten van gedrag. Hierbij gebruiken we de 'Reasoned Action Approach', een van de meest gebruikte theorieën om beredeneerd gedrag te onderzoeken. Op basis van deze theorie hebben we een systeem ontwikkeld om steeds met twee vragen elk van de drie belangrijkste voorspellers van gedrag (attitude, waargenomen norm, en waargenomen gedragscontrole) te meten.</p>
 <p>
-	Op basis van deze theorie hebben we een systeem ontwikkeld om steeds met twee vragen elk van de drie belangrijkste voorspellers van gedrag (attitude, waargenomen norm, en waargenomen gedragscontrole) te meten.</p>
-<p>
-	Deze studie is gepreregistreerd: we hebben, voordat de dataverzameling startte, onze plannen vastgelegd. Deze preregistratie kan worden gevonden via het Open Science Framework repository op <a href="https://osf.io/2uwxp">https://osf.io/2uwxp</a>.</p>
+	Deze studie is gepreregistreerd: we hebben, voordat de dataverzameling startte, onze plannen vastgelegd. Deze preregistratie kan worden gevonden via het Open Science Framework repository op <a href="https://osf.io/4q3j2/">https://osf.io/4q3j2/</a>.</p>
 <p>
 	Als u nog vragen heeft of meer informatie wil, kunt u altijd contact opnemen met de onderzoekers via <a href="mailto:ciberlite@a-bc.eu">ciberlite@a-bc.eu</a>.</p>
 ]]></surveyls_endtext>
